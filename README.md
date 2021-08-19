@@ -20,4 +20,4 @@
 
 
 
-![alttext](image/puppercoin.png)
+![alttext](image/puppercoin.PNG)
